@@ -1,0 +1,3 @@
+Business challenge analysis
+
+The current business problem is that marketing campaigns are inefficient and don't drive the desired results because they are targeted incorrectly.  Thus, to increase campaign efficiency, you need to perform clustering to define customer segments and target customers with specific deals or promotions. After a quick data exploration, you see that the data is unlabeled. For this task, you should use unsupervised clustering algorithms, such as KMeans.
